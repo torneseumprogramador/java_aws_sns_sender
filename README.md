@@ -36,3 +36,6 @@ source ~/.bash_profile
 ./buld.sh
 ./start.sh
 ```
+
+# SNS send to SQS
+https://www.youtube.com/watch?v=3y8YubKdtww
